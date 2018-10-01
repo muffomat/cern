@@ -3,3 +3,6 @@
 ## At 2016-07-23 08:45:00 (in EN): 1 FREE!
 ## At 2016-07-23 15:00:00 (in EN): 1 FREE!
 ## At 2016-07-22 11:00:00 (in EN): 2 FREE!
+
+# Damit können die freien Plätze im Cern (Schweiz) ausgelesen werden.
+# Somit steigt die Wahrscheinlichkeit, einen Platz zu ergattern!
